@@ -1,0 +1,28 @@
+{
+  "name": "chatcat",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Haozhuo/simple_chat_app.git"
+  },
+  "author": "Haozhuo Huang",
+  "license": "ISC",
+  "engines": {
+    "node": "4.2.2"
+  },
+  "bugs": {
+    "url": "https://github.com/Haozhuo/simple_chat_app/issues"
+  },
+  "homepage": "https://github.com/Haozhuo/simple_chat_app#readme",
+  "dependencies": {
+    "connect-mongo": "1.1.0",
+    "express": "4.13.3",
+    "express-session": "1.12.1",
+    "mongoose": "4.3.1"
+  }
+}

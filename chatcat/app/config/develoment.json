@@ -1,0 +1,5 @@
+{
+	"host": "http://localhost:3000",
+	"dbURI": "mongodb://<dbuser>:<dbpassword>@ds011775.mlab.com:11775/chat",
+	"sessionSecret": "kobeisthebestplayer"
+}
